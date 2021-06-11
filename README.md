@@ -56,3 +56,9 @@ for j in range(len(songs)):
     threading.Thread(target=thread_scraping, args=(j,)).start()
 
 ```
+
+# Legal
+
+Materials provided here are intended for non-commercial educational use. By accessing the documents here you agree that these materials are for private, educational use only. Materials here are protected by copyright and are the property of their respective owners.
+
+If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify this project's maintainers of your infringement claim in accordance with the procedure below.
